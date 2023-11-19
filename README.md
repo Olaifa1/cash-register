@@ -1,2 +1,2 @@
-# cash_register1
-A tracking and logging application
+# cash_register
+A transaction logging and tracking application programmed with Python
